@@ -20,5 +20,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
+  },
+  "optionalDependencies": {
+    "babel-loader": "8.1.0"
   }
 }
